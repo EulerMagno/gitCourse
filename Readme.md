@@ -1,4 +1,12 @@
+
 Curso de Git e Github
 
-#2 Segunda atualização do git
+
+
+Repository for use of versioning for git course.
+
+Commnands and sequences will be inserted here. 
+
+
+
 
